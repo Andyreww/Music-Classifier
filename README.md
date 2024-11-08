@@ -9,7 +9,6 @@ A project to classify music genres and generate personalized playlists based on 
   - [Steps to See Results](#steps-to-see-results)
   - [Bonus: Generate Playlists](#bonus-generate-playlists)
 - [Data Download **(IMPORTANT)**](#data-download)
-- [Usage](#usage)
 
 ## Prerequisites
 
